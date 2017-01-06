@@ -79,7 +79,9 @@ public class validList
         origList.add(new FoodItem("Cottage Cheese", 17, "	Milk Case", 1.99));
         origList.add(new FoodItem("Guacamole",	3	,"	Produce	",	3	));
         origList.add(new FoodItem("Chorizo", 8, "Aisle 8 ", 2.99 ));
-        
+        origList.add(new FoodItem("Goat Cheese",	2	,"	Deli	",	6.99	));
+        origList.add(new FoodItem("Salami",	2	,"	Deli	",	3.99	));
+        origList.add(new FoodItem("Cheese Ball",	2	,"	Deli	",	4.99	));
 
 
 
